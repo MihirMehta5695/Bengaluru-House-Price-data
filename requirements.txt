@@ -1,0 +1,23 @@
+numpy
+scipy
+pandas
+statsmodels
+matplotlib
+seaborn
+plotly
+bokeh
+scikit-learn
+Keras
+tensorflow
+Theano
+pytorch
+pydot3
+pydot2
+xgboost
+beautifulsoup4
+# BeautifulSoup
+Scrapy3
+# Scrapy
+jupyterlab
+notebook
+voila

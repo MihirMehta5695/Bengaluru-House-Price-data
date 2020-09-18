@@ -1,0 +1,57 @@
+Numpy:
+pip install numpy
+
+SciPy:
+pip install scipy
+
+Pandas
+pip install pandas
+
+Statsmodels
+pip install statsmodels
+
+Matplotlib
+pip install matplotlib
+
+Seaborn
+pip install seaborn
+
+Plotly
+pip install plotly
+
+Bokeh
+pip install bokeh
+
+Scikit Learn
+pip install scikit-learn
+
+Keras
+pip install Keras
+
+Caffe
+pip install 
+
+Tensorflow
+pip install tensorflow
+
+Theano
+pip install Theano
+
+Pytorch
+pip install pytorch
+
+pydot
+pip install pydot3
+pip install pydot2
+
+xgboost
+pip install xgboost
+
+BeautifulSoup
+pip install beautifulsoup4
+pip install BeautifulSoup
+
+Scrapy
+pip install Scrapy3
+pip install Scrapy
+
