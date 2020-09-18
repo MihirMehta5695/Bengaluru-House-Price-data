@@ -75,3 +75,7 @@ convert_sqft_to_num('34.46Sq.meter')
 # data_frame.copy() will create a deep copy
 df4 = df3.copy()
 df4["total_sqft"] = df4["total_sqft"].apply(convert_sqft_to_num)
+df4.head()
+# %%
+df4.loc[30]
+# %%
