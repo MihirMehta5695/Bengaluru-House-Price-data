@@ -104,3 +104,5 @@ df5.location = df5.location.apply(lambda x: 'other' if x in location_stats_less_
 # %%
 len(df5.location.unique())
 # %%
+df5.head()
+# %%
