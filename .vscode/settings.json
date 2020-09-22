@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "venv/bin/python"
+    "python.pythonPath": "venv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "venv/lib/python3.8/site-packages"
+    ]
 }
+// https://stackoverflow.com/questions/50389852/visual-studio-code-intellisense-not-working/56779598

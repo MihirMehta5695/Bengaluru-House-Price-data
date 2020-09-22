@@ -21,3 +21,4 @@ Scrapy3
 jupyterlab
 notebook
 voila
+flask
